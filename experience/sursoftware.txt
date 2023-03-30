@@ -1,0 +1,5 @@
+Development of a web application using Java, HTML and Bootstrap.
+Development of a back-end to manager databases and expose an API-REST 
+Maintenance of the database.
+Troubleshooting applications.
+Development of an Android application using Java.

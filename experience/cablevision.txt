@@ -1,0 +1,4 @@
+Integration of necessary features for the <a href="https://play.google.com/store/apps/details?id=ar.com.cablevision.attv.android.myminerva&hl=en_US">Android mobile Flow</a> application release.
+Creation of the Flow application for Android TV devices.
+Creation of modules for procedures shared between projects.
+Modification of the behavior of the operating system on the Android TV box using hooks.

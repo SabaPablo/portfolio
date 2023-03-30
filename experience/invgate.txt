@@ -1,0 +1,4 @@
+Reconstruction of an existing <a href="https://play.google.com/store/apps/details?id=com.invgate.insight.agent&hl=en_US">Android application</a>. We managed to make it error-free and functional on all Android devices, and added new required features throughout the project.
+Creation of a React-Native application offering technical support service to all mobile devices (Android and iOS).
+Management of application logs and error control to detect and resolve any potential issues as quickly as possible.
+Provide support and alternatives to required product management features.
